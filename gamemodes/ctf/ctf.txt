@@ -1,0 +1,12 @@
+"ctf"
+{
+	"base"		"fretta13"
+	"title"		"Capture The Flag"
+	"maps"		"^ctf_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
